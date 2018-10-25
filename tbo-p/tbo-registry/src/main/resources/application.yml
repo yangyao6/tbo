@@ -1,3 +1,4 @@
+# dev非集群 dev1，dev2为双节点集群注册中心
 spring:
   profiles:
-    active: dev
+    active: dev1
